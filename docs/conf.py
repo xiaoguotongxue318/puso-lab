@@ -5,7 +5,7 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-import sphinx_rtd_theme
+#import sphinx_rtd_theme
 
 project = 'puso-lab'
 copyright = '2025, puso'
